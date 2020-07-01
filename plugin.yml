@@ -1,0 +1,5 @@
+name: Emote
+main: net\mydeacy\emote\Emote
+version: 0.0.0
+api: [3.14.0]
+author: MyDeacy
